@@ -22,35 +22,7 @@ Blockchain & Smart Contract:
 Remix IDE (for development and deployment)
 (for frontend-to-blockchain communication)
 
-🚀 Getting Started
-To get a local copy up and running, follow these simple steps. This guide assumes you will deploy the contract using the Remix IDE.
-Prerequisites
-Node.js (v16 or later)
-npm or yarn
-MetaMask browser extension installed and configured with a test network (e.g., Sepolia).
-Installation & Setup
-Clone the Repository:
-Bash
-git clone https://github.com/your-username/payment-splitter-dapp.git
-cd payment-splitter-dapp
 
-
-
-
-Install Frontend Dependencies:
-Bash
-# If the react app is in a sub-folder (e.g., 'client'), navigate to it first
-# cd client
-npm install
-
-
-
-Run the Frontend Application:
-Bash
-npm start
-
-
-Your application should now be running on http://localhost:3000. Make sure your MetaMask is still connected to the same network you deployed the contract to, and you're ready to interact with your DApp!
 
 🎯 Usage
 Connect Your Wallet: Click the "Connect Wallet" button to link your MetaMask wallet to the DApp.
